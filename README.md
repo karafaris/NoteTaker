@@ -40,7 +40,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ```
 
 ## Screenshots!
-[Note-Taker](public/assets/note-demo.jpg)
+![note-taker](public/assets/note-demo.jpg)
 
 
 ## Installation
